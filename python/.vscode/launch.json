@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Mike/Documents/Curso/cs50/c/helloWorld",
-      "program": "c:/Users/Mike/Documents/Curso/cs50/c/helloWorld/build/Debug/outDebug",
+      "cwd": "c:/Users/Mike/Documents/Curso/cs50/python",
+      "program": "c:/Users/Mike/Documents/Curso/cs50/python/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
