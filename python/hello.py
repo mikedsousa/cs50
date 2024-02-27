@@ -1,9 +1,8 @@
 # Ask user for their name
+name = input("What's your name? ").strip().title()
 
-name = input("What's your name? ")
-age = input("How old are you? ")
+# Split the name into first and last
+first, last = name.split(" ")
 
 # Say hello to the user
-
-print("Hello, {}!".format(name))
-print("You are {} years old.".format(age))
+print(f"Hello, {first}!")
