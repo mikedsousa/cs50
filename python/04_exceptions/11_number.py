@@ -9,6 +9,7 @@ def get_int():
   while True:
     try:
       return int(input("What's x? "))      
+    
     except ValueError:
       pass
 
